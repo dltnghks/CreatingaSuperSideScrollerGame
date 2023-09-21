@@ -1,0 +1,2 @@
+C:\Users\G418-33\Desktop\CreatingaSuperSideScrollerGame\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Definitions.SuperSideScroller.h
+C:\Users\G418-33\Desktop\CreatingaSuperSideScrollerGame\SuperSideScroller\Source\SuperSideScroller\SuperSideScroller.h
